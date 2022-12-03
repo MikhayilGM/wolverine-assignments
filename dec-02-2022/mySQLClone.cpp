@@ -171,7 +171,6 @@ void update(std::vector<std::string>& CommandLine)
             }  
         }  
     }  
- // update users set age=20 where name=steve;
     
 }// ays funkciayi tvjalneri pushy kkatarvi urish funkciayum
 
