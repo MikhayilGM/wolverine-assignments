@@ -18,7 +18,7 @@ std::map<std::string, Command> CommandParse;
 std::string DataBase;
 std::vector<std::string> Tables;
 std::vector<std::vector<std::string>> FieldsName;
-std::vector<std::vector<std::vector<std::string>>> FieldsInfo; // ays ereq vektornery poxarinvelu en maperov
+std::vector<std::vector<std::vector<std::string>>> FieldsInfo;
 
 size_t find_pos(std::vector<std::string>& vec, const std::string& value)
 {
